@@ -6,6 +6,7 @@ import MovieModule from './movie/movie.module';
 import GenreModule from './Genre/genre.module';
 import MovieEntity from './db/movie.entity';
 import GenreEntity from './db/genre.entity';
+import environment from './config';
 
 @Module({
   imports: [
@@ -15,11 +16,7 @@ import GenreEntity from './db/genre.entity';
     TypeOrmModule.forFeature([UserEntity, MovieEntity, GenreEntity]),
     TypeOrmModule.forRoot({
       type: 'postgres',
-      host: 'localhost',
-      port: 5432,
-      username: 'postgres',
-      password: 'root',
-      database: 'movies',
+      url: environment.databaseUrl,
       entities: [UserEntity, MovieEntity, GenreEntity],
       synchronize: true,
     }),
