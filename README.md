@@ -12,7 +12,7 @@ O desafio solicita o use de 4 principais ferramentas, destas 4, o Swagger e o Ne
 
 A API foi feita usando o framework NestJS, com banco de dados PostgreSQL, usando o TypeORM, para realizar o deploy da aplicação, escolhi a plataforma Heroku. Sobre os relacionamentos das entidades da aplicação, minha ideia foi uma relação n-n entre usuários e filmes e uma relação 1-n entre gênero e filme.
 
-## Descrição
+## Documentação
 
-Uma boa opção para entender e testar a aplicação é utilizar o **[Insomnia](https://insomnia.rest/)**, o arquivo contendo as rotas da aplicação está na pasta "docs".
+Uma boa opção para entender e testar a aplicação é utilizar o **[Insomnia](https://insomnia.rest/)**, o arquivo contendo as rotas da aplicação está na pasta **[/docs](https://github.com/BrunoBudelRossi/mks-backend-challenge/tree/master/docs)**.
 A documentação da API foi feita usando o Swagger e esta disponível em: **[Documentação](https://mks-movies.herokuapp.com/api/)**
