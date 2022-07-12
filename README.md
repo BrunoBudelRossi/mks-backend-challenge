@@ -15,5 +15,5 @@ A API foi feita usando o framework NestJS, com banco de dados PostgreSQL, usando
 ## Documentação
 
 Uma boa opção para entender e testar a aplicação é utilizar o **[Insomnia](https://insomnia.rest/)**, o arquivo contendo as rotas da aplicação está na pasta **[/docs](https://github.com/BrunoBudelRossi/mks-backend-challenge/tree/master/docs)**.
-A documentação da API foi feita usando o Swagger e esta disponível em: **[documentação](https://mks-movies.herokuapp.com/api/)**
+A documentação da API foi feita usando o Swagger e pode ser acessada **[aqui](https://mks-movies.herokuapp.com/api/)**.
 Caso a documentação esteja indisponível, também é possível rodar o projeto e acessar a mesma a partir de http://localhost:3000/api
