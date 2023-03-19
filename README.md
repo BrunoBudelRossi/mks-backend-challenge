@@ -6,7 +6,7 @@
 
 ## Observações
 
-O desafio solicita o use de 4 principais ferramentas, destas 4, o Swagger e o NestJS eu não possuo uma experiência significativa de uso, já o TypeScript e o TypeORM eu utilizo a bastante tempo e tenho um bom domínio e conhecimento de ambos, embora, talvez a arquitetura simples não tenha possibilitado uma grande demostração de uso dos mesmos.
+O desafio solicita o uso de 4 principais ferramentas, destas 4, Swagger e NestJS eu não possuo uma experiência significativa de uso, já o TypeScript e o TypeORM eu utilizo a bastante tempo e tenho um bom domínio e conhecimento de ambos, embora, talvez a arquitetura simples não tenha possibilitado uma grande demostração de uso dos mesmos.
 
 ## Descrição
 
